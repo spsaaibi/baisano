@@ -8,16 +8,19 @@ categories:
   - Data Science
 tags: []
 description: ''
-publishDate: '2019-05-28T22:38:19-05:00'
+publishDate: '2019-05-28'
 images: []
 ---
 
-# Problem
+
+This post was originally published as a story in [Plato](https://community.platohq.com/stories/outlining-trajectories-of-growth-for-senior-engineers)
+
+## Problem
 
 
 I had a senior data engineer that started to become unmotivated and unhappy in his job. I began looking deeper to understand the source of his distress and I came to learn that he felt like he was hitting the perceived ceiling of growth in our company. He was a valuable asset to us, thus, I needed to strategize ways in which he could continue growing with our organization so that he did not feel bored nor like he reached the peak of growth within our company.
 
-# Actions Taken
+## Actions Taken
 
 First, have a well-defined career ladder. If an individual contributor is making progress and would like to grow, have outlined track options that they may take in order to move up on that ladder.
 
@@ -39,9 +42,9 @@ Technical/Engineering Track- Determine whether the senior engineer has someone i
 
 - Have them give a talk. Public speaking may not be the most comfortable thing, but it can be a rewarding experience. Sign your engineer up for a conference and get them to speak on their expertise.
 
-Management Track- Decide whether the engineer would like to become a manager and if so, is there space to grow in people management within your company? This transition needs to come naturally and directly from the senior engineer. There is a large difference from being on the independent technical edge to managing people. The engineer needs to be sure that people management is the direction that they would like to take because if it is not, if it’s just an experiment for them, it will likely fail.
+- Management Track: Decide whether the engineer would like to become a manager and if so, is there space to grow in people management within your company? This transition needs to come naturally and directly from the senior engineer. There is a large difference from being on the independent technical edge to managing people. The engineer needs to be sure that people management is the direction that they would like to take because if it is not, if it’s just an experiment for them, it will likely fail.
 
-# Lessons Learned
+## Lessons Learned
 
 - Remember what was extremely motivating to you as an individual contributor. Bring those experiences to the table and try to offer them to your senior engineers.
 

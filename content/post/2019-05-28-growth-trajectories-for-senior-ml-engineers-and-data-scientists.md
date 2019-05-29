@@ -8,7 +8,7 @@ categories:
   - Data Science
 tags: []
 description: ''
-publishDate: '2019-05-28T22:38:19-05:00'
+publishDate: '2019-05-28'
 images: []
 ---
 

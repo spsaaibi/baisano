@@ -14,7 +14,7 @@ theme = "hugo-terrassa-theme"
 
 [params]
     description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
-    favicon = "favicon.ico" # Relative URL
+    favicon = "images/favicon_baisano.ico" # Relative URL
     logo = "" # Absolute URL
 
 [params.hero]
@@ -84,3 +84,5 @@ theme = "hugo-terrassa-theme"
     [privacy.youtube]
         disable = false
         privacyEnhanced = true
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]

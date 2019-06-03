@@ -13,7 +13,7 @@ theme = "hugo-terrassa-theme"
     page = ["HTML", "RSS"]
 
 [params]
-    description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
+    description = "Baisano Labs is a Machine Learning and Data Science consultancy and Product Development firm"
     favicon = "favicon.ico" # Relative URL
     logo = "" # Absolute URL
 

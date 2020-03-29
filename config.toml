@@ -54,8 +54,8 @@ theme = "hugo-terrassa-theme"
     dateFormat = "Monday, Jan, 2006"
 
 [params.contact] # Contact info
-    email = "s@baisano.com"
-    phone = "+1 857 288 8015"
+    email = "baisanolabs@gmail.com"
+    phone = "+1 347 972 0017"
 
 [params.social] # Social networks
     twitter = "https://twitter.com/spsaaibi"

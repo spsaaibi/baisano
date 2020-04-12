@@ -22,4 +22,4 @@ These are embarrassingly common questions for most companies, from small startup
 
 Luckily, there is a way to turn data service organizations into an integral part of your business, while adding value with every single contribution. It implies a shift toward becoming a data product team. It implies listening to internal and external customers, and building tools that increase operational efficiency and reduce the need for ad hoc queries.
 
-On this talk i’ll cover a roadmap of practical steps you could take to achieve this on your organization. If you are a developer, data scientist, product stakeholder, manager or executive, this talk is for you.
+On this post i’ll walk through practical steps you can take to achieve this on your organization. If you are a developer, data scientist, product stakeholder, manager or executive, this post is for you.

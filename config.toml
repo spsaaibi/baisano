@@ -33,7 +33,7 @@ theme = "hugo-terrassa-theme"
     integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
 
 [params.form] # Contact form
-    netlify = true # Use only if you are using Netlify
+    netlify = false # Use only if you are using Netlify
     action = "https://formspree.io/xpzjodpg"
     method = "POST"
     inputNameName = "name"
@@ -51,7 +51,7 @@ theme = "hugo-terrassa-theme"
     showAuthor = true
     showDate = true
     showTags = true
-    dateFormat = "Monday, Jan, 2006"
+    dateFormat = "Monday, Jan 1, 2006"
 
 [params.contact] # Contact info
     email = "baisanolabs@gmail.com"

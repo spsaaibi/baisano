@@ -13,7 +13,7 @@ theme = "hugo-terrassa-theme"
     page = ["HTML", "RSS"]
 
 [params]
-    description = "Baisano Labs is a Machine Learning and Data Science consultancy and Product Development firm"
+    description = "Baisano Labs is a ML and Data Science product development firm"
     favicon = "favicon.ico" # Relative URL
     logo = "" # Absolute URL
 
@@ -34,7 +34,7 @@ theme = "hugo-terrassa-theme"
 
 [params.form] # Contact form
     netlify = true # Use only if you are using Netlify
-    action = "https://formspree.io/your@email.com"
+    action = "https://formspree.io/xpzjodpg"
     method = "POST"
     inputNameName = "name"
     inputNameLabel = "Name"

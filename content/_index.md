@@ -9,6 +9,5 @@ weight: 1
 ---
 
 # Baisano Labs
-## Baisano Labs is a Machine Learning and Data Science consultancy and Product Development firm
-
+## Machine Learning and Data Science product development
 

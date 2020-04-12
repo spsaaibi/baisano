@@ -4,9 +4,10 @@ author: Sebastian Perez Saaibi
 date: '2019-05-28'
 slug: growth-trajectories-for-senior-ml-engineers-and-data-scientists
 categories:
+  - tech management
+tags:
   - ML
-  - Data Science
-tags: []
+  - DataScience
 description: ''
 publishDate: '2019-05-28'
 images: []

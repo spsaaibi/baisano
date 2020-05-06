@@ -51,7 +51,7 @@ theme = "hugo-terrassa-theme"
     showAuthor = true
     showDate = true
     showTags = true
-    dateFormat = "Monday, Jan 1, 2006"
+    dateFormat = "Monday, Jan 02, 2006"
 
 [params.contact] # Contact info
     email = "baisanolabs@gmail.com"
